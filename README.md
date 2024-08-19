@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1oi2XYVHCDYQibblzM2XN-W675MuenBr2" alt="MasterHead" style="width: 100%; height: 450px; object-fit: cover; display: block;">
+<img src="https://drive.google.com/file/d/1lQLqOC8p1PlQAL6_WqFXwfIlwIlAjQb7/view?usp=drive_link" alt="MasterHead" style="width: 100%; height: auto; object-fit: cover; display: block;">
 <h1 align="center">Hi 👋, I'm Najmus Sabir</h1>
 <h3 align="center">A committed developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
