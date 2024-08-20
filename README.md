@@ -1,4 +1,4 @@
- <div style="width: 100%; height: 200px; overflow: hidden;">
+ <div style="width: 100%; height: 100px; overflow: hidden;">
     <img src="https://drive.google.com/uc?id=1lQLqOC8p1PlQAL6_WqFXwfIlwIlAjQb7" alt="MasterHead" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 <h1 align="center">Hi 👋, I'm Najmus Sabir</h1>
