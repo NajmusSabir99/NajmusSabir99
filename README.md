@@ -1,5 +1,5 @@
  <div style="width: 100%; height: 100px; overflow: hidden;">
-    <img src="https://drive.google.com/uc?id=1lQLqOC8p1PlQAL6_WqFXwfIlwIlAjQb7" alt="MasterHead" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://drive.google.com/file/d/1vY0fFQEtLyaZxIfu83Sv_TnL_ZMMJP-p/view?usp=drive_link" alt="MasterHead" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 <h1 align="center">Hi 👋, I'm Najmus Sabir</h1>
 <h3 align="center">A committed developer from Bangladesh</h3>
