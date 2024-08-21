@@ -6,6 +6,19 @@
 <h3 align="center">Also a competitive programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najmussabir99&label=Profile%20views&color=0e75b6&style=flat" alt="najmussabir99" /> </p>
+<h3 align="left">Skills Overview</h3>
+<p>
+ <a>HTML,CSS</a>
+ <a>Bootstrap, Tailwind</a>
+ <a>Daisy UI</a>
+ <a>Javascript</a>
+ <a>React</a>
+ <a>Node</a>
+ <a>Express</a>
+ <a>Mongo DB</a>
+ <a>PHP</a>
+ <a>MySQL</a>
+</p>
 
 - 🔭 I’m currently working on [Tea House](https://github.com/NajmusSabir99/Tea-House)
 
