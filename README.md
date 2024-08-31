@@ -20,7 +20,7 @@
  <a>MySQL,</a>
 </p>
 
-- 🔭 I’m currently working on [Tea House](https://github.com/NajmusSabir99/Tea-House)
+- 🔭 I’m currently working on [Rinterio House Designer](https://github.com/NajmusSabir99/Rinterio-House-Designer)
 
 - 🌱 I’m currently learning **Javascript, React, Node, MongoDB**
 
